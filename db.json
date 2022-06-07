@@ -1,0 +1,38 @@
+{
+  "employees": [
+    {
+      "ismarried": true,
+      "username": "Tanmoy Mondal",
+      "Age": "24",
+      "Address": "Burdwan",
+      "Department": "FullStack",
+      "Salary": "3000",
+      "id": 1
+    },
+    {
+      "ismarried": false,
+      "username": "Tanmoy Mondal",
+      "Age": "34",
+      "Address": "Burdwan",
+      "Salary": "3000",
+      "id": 2
+    },
+    {
+      "ismarried": true,
+      "username": "Tanmoy Mondal",
+      "Age": "24",
+      "Address": "Burdwan",
+      "Department": "FullStack",
+      "Salary": "3000",
+      "id": 1
+    },
+    {
+      "ismarried": false,
+      "username": "Tanmoy Mondal",
+      "Age": "34",
+      "Address": "Burdwan",
+      "Salary": "3000",
+      "id": 2
+    }
+  ]
+}
